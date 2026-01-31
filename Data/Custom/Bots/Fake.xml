@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PostMessage IndexMin="1000" IndexMax="1003"/>
+<PartyMessage IndexMin="900" IndexMax="903"/>
+<AttackMessage IndexMin="904" IndexMax="908"/>
+
+<FakeOnlineData>
+<Info
+Account="xtobal200"
+Password="mutante22"
+Name="cocodrilo"
+SkillID="41"
+BuffSkillID_0="48"
+BuffSkillID_1="-1"
+BuffSkillID_2="-1"
+Range="0"
+MapX="196"
+MapY="105"
+Stuck="1"
+TimeReturn="30"
+PartyMode="2"
+Pick="0"
+RepairItem="1"
+AutoBuff="1"
+PartyBuff="1"
+PVPMode="1"
+FakePost="0"
+FakeDrop="0"/>
+</FakeOnlineData>

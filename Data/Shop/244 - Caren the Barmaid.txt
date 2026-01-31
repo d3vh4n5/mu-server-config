@@ -1,0 +1,23 @@
+// -----------------------------------------------------------------------------------------------------------
+// [00,000]    [0~13]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]
+// ItemIndex   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   Comment
+// -----------------------------------------------------------------------------------------------------------
+   14,009      0           1            0             0            0           0           0           //Ale
+   14,010      0           1            0             0            0           0           0           //Town Portal Scroll
+   13,016      1           1            0             0            0           0           0           //Scroll of Archangel
+   13,016      2           1            0             0            0           0           0           //Scroll of Archangel
+   13,017      1           1            0             0            0           0           0           //Blood Bone
+   13,017      2           1            0             0            0           0           0           //Blood Bone
+   14,017      1           1            0             0            0           0           0           //Devil's Eye
+   14,017      2           1            0             0            0           0           0           //Devil's Eye
+   14,018      1           1            0             0            0           0           0           //Devil's Key
+   14,018      2           1            0             0            0           0           0           //Devil's Key
+   13,029      0           1            0             0            0           0           0           //Armor of Guardsman
+   13,018      0           1            0             0            0           0           0           //Invisibility Cloak
+   13,018      1           1            0             0            0           0           0           //Invisibility Cloak
+   13,018      2           1            0             0            0           0           0           //Invisibility Cloak
+   13,018      3           1            0             0            0           0           0           //Invisibility Cloak
+   13,018      4           1            0             0            0           0           0           //Invisibility Cloak
+   13,018      5           1            0             0            0           0           0           //Invisibility Cloak
+   13,018      6           1            0             0            0           0           0           //Invisibility Cloak
+end

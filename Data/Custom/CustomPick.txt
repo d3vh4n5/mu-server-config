@@ -1,0 +1,5 @@
+// -------------------------------
+// ItemIndex   ItemLevel   Comment
+// -------------------------------
+// 12,015      *           // No pick Jewel of Chaos
+end

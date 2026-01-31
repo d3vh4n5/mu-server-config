@@ -1,0 +1,68 @@
+//BotIndex   Level   Life   MaxLife   Mana  MaxMana   Comment
+0
+//0            400     500    600       500   600       //Bot Pack Bless
+//1            400     500    600       500   600       //Bot Unpack Bless
+//2            400     500    600       500   600       //Bot Pack Soul
+//3            400     500    600       500   600       //Bot Unpack Soul
+//4            400     500    600       500   600       //Bot Pack Life
+//5            400     500    600       500   600       //Bot Unpack Life
+//6            400     500    600       500   600       //Bot Pack Creation
+//7            400     500    600       500   600       //Bot Unpack Creation
+//8            400     500    600       500   600       //Bot Pack Chaos
+//9            400     500    600       500   600       //Bot Unpack Chaos
+end
+
+//BotIndex   Class   Enabled   Vip   ColorName   Zen   MaxLvl   Name		Map   LocationX   LocationY   Dir   Comment
+1
+//0		     48	     1         0	 2		     1000000 400	    "PBless"  	0	  130         125         3     //Bot Pack Bless
+//1		     48	     1         0	 2		     1000000 400	    "UBless"  	0	  130         126         3     //Bot Unpack Bless
+//2		     48	     1         0	 2		     1000000 400	    "PSoul"  	0	  130         127         3     //Bot Pack Soul
+//3		     48	     1         0	 2		     1000000 400	    "USoul"  	0	  130         128         3     //Bot Unpack Soul
+//4		     48	     1         0	 2		     1000000 400	    "PLife"  	0	  130         129         3     //Bot Pack Life
+//5		     48	     1         0	 2		     1000000 400	    "ULife"  	0	  130         130         3     //Bot Unpack Life
+//6		     48	     1         0	 2		     1000000 400	    "PCreation" 0	  130         133         3     //Bot Pack Creation
+//7		     48	     1         0	 2		     1000000 400	    "UCreation" 0	  130         134         3     //Bot Unpack Creation
+//8		     48	     1         0	 2		     1000000 400	    "PChaos"    0	  130         120         3     //Bot Pack Chaos
+//9		     48	     1         0	 2		     1000000 400	    "UChaos"    0	  130         121         3     //Bot Unpack Chaos
+end
+
+//BotIndex   Slot   Type   Index   Level   Opt   Comment
+2
+//0            0      2      7       13      0     //Elemental Mace
+//0            1      6      16      13      0     //Elemental Shield
+//0	         2	    7	   31 	   13	   0     //Sylphid Ray Helm
+//0	         3	    8	   31 	   13	   0     //Sylphid Ray Armor
+//0	         4	    9	   31	   13	   0     //Sylphid Ray Pants
+//0	         5	    10	   31	   13	   0     //Sylphid Ray Gloves
+//0	         6	    11	   31	   13	   0     //Sylphid Ray Boots
+//0	         7	    12	   3       0	   0     //Wings of Spirits
+//0            8      13     0       0       0     //Guardian Angel
+end
+
+//BotIndex   Enabled   Type   Index   Level   Count   Comment
+3
+//0            1         14     13      0       10      //Jewel of Bless x10 (Required)
+//1            1         14     13      1       1       //Bundle Jewel of Bless x10 (Required)
+//2            1         14     14      0       10      //Jewel of Soul x10 (Required)
+//3            1         14     14      1       1       //Bundle Jewel of Soul x10 (Required)
+//4            1         14     16      0       10      //Jewel of Life x10 (Required)
+//5            1         14     16      1       1       //Bundle Jewel of Life x10 (Required)
+//6            1         14     22      0       10      //Jewel of Creation x10 (Required)
+//7            1         14     22      1       1       //Bundle Jewel of Creation x10 (Required)
+//8            1         12     15      0       10      //Jewel of Chaos x10 (Required)
+//9            1         12     15      1       1       //Bundle Jewel of Chaos x10 (Required)
+end
+
+//BotIndex   Type   Index   Level   x10   Comment
+4
+//0            14     13      1       0     //Bundle Jewel of Bless x10 (Give)
+//1            14     13      0       1     //Jewel of Bless x10 (Give)
+//2            14     14      1       0     //Bundle Jewel of Soul x10 (Give)
+//3            14     14      0       1     //Jewel of Bless x10 (Give)
+//4            14     16      1       0     //Bundle Jewel of Life x10 (Give)
+//5            14     16      0       1     //Jewel of Life x10 (Give)
+//6            14     22      1       0     //Bundle Jewel of Creation x10 (Give)
+//7            14     22      0       1     //Jewel of Creation x10 (Give)
+//8            12     15      1       0     //Bundle Jewel of Chaos x10 (Give)
+//9            12     15      0       1     //Jewel of Chaos x10 (Give)
+end

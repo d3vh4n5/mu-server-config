@@ -1,0 +1,23 @@
+//Index      Class   Enabled   Vip   Color   Zen   MaxLvl   Name		Map   X   Y   Dir   Comment
+0
+0		     32	     1         0	 0		 1000  220	    "Buffer"    0	  174 129 1     //Buffer
+end
+
+//BotIndex   Slot   Type   Index   Level   Opt   Comment
+1
+0            0      2      7       13      0     //Elemental Mace
+0            1      6      16      13      0     //Elemental Shield
+0	         2	    7	   19	   13	   0     //Divine Helm
+0	         3	    8	   19	   13	   0     //Divine Armor
+0	         4	    9	   19	   13	   0     //Divine Pants
+0	         5	    10	   19	   13	   0     //Divine Gloves
+0	         6	    11	   19	   13	   0     //Divine Boots
+0	         7	    12	   3	   13	   0     //Wings of Spirits
+0            8      13     0       0       0     //Guardian Angel
+end
+
+//BotIndex   Enabled   Skill   Time   Power   Comment
+2
+0            1	       27	   5	  30	  //Greater Defense
+0	         1         28	   5      30	  //Greater Damage
+end

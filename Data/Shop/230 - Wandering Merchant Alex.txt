@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------------------------------------
+// [00,000]    [0~13]      [0~255]      [0-1]         [0-1]        [0~7]       [0~63]      [Index]
+// ItemIndex   ItemLevel   Durability   SkillSwitch   LuckSwitch   Aditional   Excellent   SetOption   Comment
+// -----------------------------------------------------------------------------------------------------------
+   03,005      3           0            1             1            1           0           0           //Double Poleaxe
+   03,001      3           0            1             1            1           0           0           //Spear
+   03,003      3           0            1             1            1           0           0           //Giant Trident
+   03,007      3           0            1             1            1           0           0           //Berdysh
+   03,004      3           0            1             1            1           0           0           //Serpent Spear
+   03,000      3           0            1             1            1           0           0           //Light Spear
+   00,010      3           0            1             1            1           0           0           //Light Saber
+   02,003      3           0            1             1            1           0           0           //Great Hammer
+   07,009      3           0            0             1            1           0           0           //Plate Helm
+   08,009      3           0            0             1            1           0           0           //Plate Armor
+   09,009      3           0            0             1            1           0           0           //Plate Pants
+   10,009      3           0            0             1            1           0           0           //Plate Gloves
+   11,009      3           0            0             1            1           0           0           //Plate Boots
+end
+

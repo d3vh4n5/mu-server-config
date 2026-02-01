@@ -180,20 +180,20 @@ AddEventExperienceRate_AL3 = 150
 ;==================================================
 ; Item Drop Settings
 ;==================================================
-ItemDropTime = 30
-ItemDropRate_AL0 = 50
-ItemDropRate_AL1 = 60
-ItemDropRate_AL2 = 65
-ItemDropRate_AL3 = 75
+ItemDropTime = 30        ; tiempo de refresco de drops en segundos
+ItemDropRate_AL0 = 40    ; jugadores normales
+ItemDropRate_AL1 = 50    ; nivel medio / VIP bajo
+ItemDropRate_AL2 = 60    ; VIP medio
+ItemDropRate_AL3 = 70    ; VIP alto
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 30
-MoneyAmountDropRate_AL0 = 100
-MoneyAmountDropRate_AL1 = 2
-MoneyAmountDropRate_AL2 = 3
-MoneyAmountDropRate_AL3 = 5
+MoneyAmountDropRate_AL0 = 50    ; jugadores normales
+MoneyAmountDropRate_AL1 = 60    ; VIP bajo
+MoneyAmountDropRate_AL2 = 70    ; VIP medio
+MoneyAmountDropRate_AL3 = 80    ; VIP alto
 
 ;==================================================
 ; Item Durability Settings

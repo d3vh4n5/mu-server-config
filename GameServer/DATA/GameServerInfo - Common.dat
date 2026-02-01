@@ -13,7 +13,7 @@ ServerLock = 0
 ServerPort = 55900
 ServerVersion = 0.99.28
 ServerSerial = CMZoneServerXxXx
-ServerMaxUserNumber = 500
+ServerMaxUserNumber = 50
 
 ;==================================================
 ; MHP Settings
@@ -221,10 +221,10 @@ MaxLevel = 400
 MaxPetLevel = 50
 MaxLevelUp = 1
 MaxLevelUpEvent = 1
-MaxStatPoint_AL0 = 32000
-MaxStatPoint_AL1 = 32000
-MaxStatPoint_AL2 = 32000
-MaxStatPoint_AL3 = 32000
+MaxStatPoint_AL0 = 32767
+MaxStatPoint_AL1 = 32767
+MaxStatPoint_AL2 = 32767
+MaxStatPoint_AL3 = 32767
 DWLevelUpPoint_AL0 = 5
 DWLevelUpPoint_AL1 = 5
 DWLevelUpPoint_AL2 = 5
@@ -288,22 +288,25 @@ PartyMaxGapLevel = 130
 ;==================================================
 ; Jewel Settings
 ;==================================================
-SoulSuccessRate_AL0 = 75
-SoulSuccessRate_AL1 = 50
-SoulSuccessRate_AL2 = 50
-SoulSuccessRate_AL3 = 50
-LifeSuccessRate_AL0 = 75
-LifeSuccessRate_AL1 = 50
-LifeSuccessRate_AL2 = 50
-LifeSuccessRate_AL3 = 50
+SoulSuccessRate_AL0 = 50
+SoulSuccessRate_AL1 = 55
+SoulSuccessRate_AL2 = 60
+SoulSuccessRate_AL3 = 75
+
+LifeSuccessRate_AL0 = 50
+LifeSuccessRate_AL1 = 55
+LifeSuccessRate_AL2 = 60
+LifeSuccessRate_AL3 = 75
+
 AddLuckSuccessRate1_AL0 = 25
-AddLuckSuccessRate1_AL1 = 25
-AddLuckSuccessRate1_AL2 = 25
-AddLuckSuccessRate1_AL3 = 25
-AddLuckSuccessRate2_AL0 = 20	
-AddLuckSuccessRate2_AL1 = 20
-AddLuckSuccessRate2_AL2 = 20
-AddLuckSuccessRate2_AL3 = 20
+AddLuckSuccessRate1_AL1 = 30
+AddLuckSuccessRate1_AL2 = 35
+AddLuckSuccessRate1_AL3 = 40
+
+AddLuckSuccessRate2_AL0 = 20
+AddLuckSuccessRate2_AL1 = 25
+AddLuckSuccessRate2_AL2 = 30
+AddLuckSuccessRate2_AL3 = 35
 
 ;==================================================
 ; Fruit Settings

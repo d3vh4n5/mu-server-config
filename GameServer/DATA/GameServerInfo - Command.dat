@@ -8,10 +8,10 @@ CommandPostType = 0
 ; Clear PK Command Settings
 ;==================================================
 CommandPKClearType = 0
-CommandPKClearMoney_AL0 = 1000000
-CommandPKClearMoney_AL1 = 1000000
-CommandPKClearMoney_AL2 = 1000000
-CommandPKClearMoney_AL3 = 1000000
+CommandPKClearMoney_AL0 = 5000000   ; No VIP
+CommandPKClearMoney_AL1 = 3000000
+CommandPKClearMoney_AL2 = 1500000
+CommandPKClearMoney_AL3 = 500000    ; VIP alto
 
 ;==================================================
 ; Add Point Command Settings
@@ -35,7 +35,7 @@ CommandChangeLimit_AL3 = 0
 CommandWareNumber_AL0 = 0
 CommandWareNumber_AL1 = 0
 CommandWareNumber_AL2 = 0
-CommandWareNumber_AL3 = 0
+CommandWareNumber_AL3 = 1
 
 ;==================================================
 ; Reset Command Settings
@@ -72,8 +72,8 @@ CommandResetClearParty_AL2 = 1
 CommandResetClearParty_AL3 = 1
 CommandResetLevel_AL0 = 400
 CommandResetLevel_AL1 = 390
-CommandResetLevel_AL2 = 380
-CommandResetLevel_AL3 = 370
+CommandResetLevel_AL2 = 370
+CommandResetLevel_AL3 = 350
 CommandResetMoney_AL0 = 5000000
 CommandResetMoney_AL1 = 4000000
 CommandResetMoney_AL2 = 3000000
@@ -82,10 +82,10 @@ CommandResetCount_AL0 = 1
 CommandResetCount_AL1 = 1
 CommandResetCount_AL2 = 1
 CommandResetCount_AL3 = 1	
-CommandResetLimit_AL0 = 10000
-CommandResetLimit_AL1 = 10000
-CommandResetLimit_AL2 = 10000
-CommandResetLimit_AL3 = 10000
+CommandResetLimit_AL0 = 300
+CommandResetLimit_AL1 = 300
+CommandResetLimit_AL2 = 300
+CommandResetLimit_AL3 = 300
 CommandResetLimitDay_AL0 = 10000
 CommandResetLimitDay_AL1 = 10000
 CommandResetLimitDay_AL2 = 10000

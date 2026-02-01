@@ -33,11 +33,11 @@ DevilSquareMixRate4_AL3 = 80
 PlusCommonItemLevelMixRate1_AL0 = 60
 PlusCommonItemLevelMixRate1_AL1 = 60
 PlusCommonItemLevelMixRate1_AL2 = 60
-PlusCommonItemLevelMixRate1_AL3 = 60
+PlusCommonItemLevelMixRate1_AL3 = 80
 PlusExcSetItemLevelMixRate1_AL0 = 60
 PlusExcSetItemLevelMixRate1_AL1 = 60
 PlusExcSetItemLevelMixRate1_AL2 = 60
-PlusExcSetItemLevelMixRate1_AL3 = 60
+PlusExcSetItemLevelMixRate1_AL3 = 80
 
 ;==================================================
 ; Plus Item Level 11 Mix Settings
@@ -45,11 +45,11 @@ PlusExcSetItemLevelMixRate1_AL3 = 60
 PlusCommonItemLevelMixRate2_AL0 = 60
 PlusCommonItemLevelMixRate2_AL1 = 60
 PlusCommonItemLevelMixRate2_AL2 = 60
-PlusCommonItemLevelMixRate2_AL3 = 60
+PlusCommonItemLevelMixRate2_AL3 = 80
 PlusExcSetItemLevelMixRate2_AL0 = 60
 PlusExcSetItemLevelMixRate2_AL1 = 60
 PlusExcSetItemLevelMixRate2_AL2 = 60
-PlusExcSetItemLevelMixRate2_AL3 = 60
+PlusExcSetItemLevelMixRate2_AL3 = 80
 
 ;==================================================
 ; Plus Item Level 12 Mix Settings
@@ -57,11 +57,11 @@ PlusExcSetItemLevelMixRate2_AL3 = 60
 PlusCommonItemLevelMixRate3_AL0 = 50
 PlusCommonItemLevelMixRate3_AL1 = 50
 PlusCommonItemLevelMixRate3_AL2 = 50
-PlusCommonItemLevelMixRate3_AL3 = 50
+PlusCommonItemLevelMixRate3_AL3 = 70
 PlusExcSetItemLevelMixRate3_AL0 = 50
 PlusExcSetItemLevelMixRate3_AL1 = 50
 PlusExcSetItemLevelMixRate3_AL2 = 50
-PlusExcSetItemLevelMixRate3_AL3 = 50
+PlusExcSetItemLevelMixRate3_AL3 = 70
 
 ;==================================================
 ; Plus Item Level 13 Mix Settings
@@ -69,11 +69,11 @@ PlusExcSetItemLevelMixRate3_AL3 = 50
 PlusCommonItemLevelMixRate4_AL0 = 50
 PlusCommonItemLevelMixRate4_AL1 = 50
 PlusCommonItemLevelMixRate4_AL2 = 50
-PlusCommonItemLevelMixRate4_AL3 = 50
+PlusCommonItemLevelMixRate4_AL3 = 70
 PlusExcSetItemLevelMixRate4_AL0 = 50
 PlusExcSetItemLevelMixRate4_AL1 = 50
 PlusExcSetItemLevelMixRate4_AL2 = 50
-PlusExcSetItemLevelMixRate4_AL3 = 50
+PlusExcSetItemLevelMixRate4_AL3 = 70
 
 ;==================================================
 ; Dinorant Mix Settings
@@ -81,7 +81,7 @@ PlusExcSetItemLevelMixRate4_AL3 = 50
 DinorantMixRate_AL0 = 70
 DinorantMixRate_AL1 = 70
 DinorantMixRate_AL2 = 70
-DinorantMixRate_AL3 = 70
+DinorantMixRate_AL3 = 80
 
 ;==================================================
 ; Fruit Mix Settings

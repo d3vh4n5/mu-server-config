@@ -1,5 +1,6 @@
 // -----------------------------------------------------------
-// Account
+// Account - GameServer: ReloadCommon vuelve a leer este archivo
 // -----------------------------------------------------------
-// "admin"
+   "admin"
+   "test"
 end

@@ -49,9 +49,9 @@
    14,007      0           *           900000         //Siege Potion
    14,007      1           *           450000         //Siege Potion
    14,009      1           *           1000           //Ale
-   14,013      *           *           12             //Jewel of Bless
-   14,014      *           *           12             //Jewel of Soul
-   14,016      *           *           12             //Jewel of Life
+   14,013      *           *           9000000        //Jewel of Bless
+   14,014      *           *           6000000        //Jewel of Soul
+   14,016      *           *           45000000       //Jewel of Life
    14,017      1           *           15000          //Devil's Eye 1
    14,017      2           *           21000          //Devil's Eye 2
    14,017      3           *           30000          //Devil's Eye 3
@@ -67,7 +67,7 @@
    14,020      *           *           900            //Remedy of Love
    14,021      0           *           9000           //Rena
    14,021      3           *           3900           //Mark of Lord
-   14,022      *           *           10             //Jewel of Creation
+   14,022      *           *           36000000       //Jewel of Creation
    14,023      *           *           9000           //Scroll of the Emperor
    14,024      *           *           9000           //Broken Sword
    14,025      *           *           9000           //Tear of Elf

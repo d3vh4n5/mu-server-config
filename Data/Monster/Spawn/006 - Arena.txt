@@ -9,19 +9,20 @@ end
 1
 // ----------------------------------------------------------------------------------------------------------
 // Index  Radio  X1   Y1   X2   Y2   Dir  Cant
-   75     5      67   74   67   74   -1   20 //Great Drakan
-   65     1      11   38   11   38   -1   50 //ultima
-   137    1      11   56   11   56   -1   50 //Elite Orc
-   64     1      11   74   11   74   -1   50 //Elite Orc
-   141    1      11   92   11   92   -1   50 //Elite Orc
-   147    1      30   38   30   38   -1   50 //Elite Orc
-   247    1      30   56   30   56   -1   50 //Elite Orc
-   249    1      30   74   30   74   -1   50 //Elite Orc
-   273    1      30   92   30   92   -1   50 //Elite Orc
-   193    1      50   38   50   38   -1   50 //Elite Orc
-   260    1      50   56   50   56   -1   50 //Elite Orc
-   265    1      50   74   50   74   -1   50 //Elite Orc
-   195    1      50   92   50   92   -1   50 //Elite Orc
+   87     5      67   70   67   74   -1   10 // Giant Ogre
+   87     5      67   80   67   80   -1   10 // Giant Ogre
+   62     5      47   86   50   92   -1   10 // Mutant
+   62     5      47   75   50   75   -1   10 // Mutant
+   281    5      11   38   11   38   -1   10 // Inventados
+   137    5      11   56   11   56   -1   10 // Destructive Ogre Archer
+   64     5      11   74   11   74   -1   10 // Ogre Archer
+   143    5      11   92   11   92   -1   10 // Blood Soldier
+   74     5      30   38   30   38   -1   10 // Alpha Crust
+   71     5      30   56   30   56   -1   10 // Mega Crust
+   88     5      30   74   30   74   -1   10 // Red Skeleton Knight
+   273    5      30   92   30   92   -1   10 // Necron
+   75     5      50   38   50   38   -1   10 // Great Drakan
+   260    5      50   56   50   56   -1   10 // Death Angel
 end
 
 2

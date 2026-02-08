@@ -44,11 +44,11 @@
    09,011      2           0            0             1            1           0           0           //Silk Pants
    10,011      2           0            0             1            1           0           0           //Silk Gloves
    11,011      2           0            0             1            1           0           0           //Silk Boots
-   07,024      13           0            0             1            1           0           0           //Wind Helm
-   08,024      13          0            0             1            1           0           0           //Wind Armor
-   09,024      13          0            0             1            1           0           0           //Wind Pants
-   10,024      13           0            0             1            1           0           0           //Wind Gloves
-   11,024      13           0            0             1            1           0           0           //Wind Boots
+   07,012      5           0            0             1            1           0           0           //Wind Helm
+   08,012      5           0            0             1            1           0           0           //Wind Armor
+   09,012      5           0            0             1            1           0           0           //Wind Pants
+   10,012      5           0            0             1            1           0           0           //Wind Gloves
+   11,012      5           0            0             1            1           0           0           //Wind Boots
    13,029      0           1            0             0            0           0           0           //Armor of Guardsman
    14,010      0           1            0             0            0           0           0           //Town Portal Scroll
    04,007      0           255          0             0            0           0           0           //Bolt
@@ -57,12 +57,12 @@
    04,015      0           255          0             0            0           0           0           //Arrow
    04,015      1           255          0             0            0           0           0           //Arrow
    04,015      2           255          0             0            0           0           0           //Arrow
-   12,015      1           1            0             0            0           0           0           //chaos
-   14,013      1           1            0             0            0           0           0           //bless
-   14,014      1           1            0             0            0           0           0           //soul
-   14,022      1           1            0             0            0           0           0           //creation
-   14,016      1           1            0             0            0           0           0           //life
-   13,014      1           1            0             0            0           0           0           //Crest of mnonarch
-   13,014      0           1            0             0            0           0           0           //loch feather
-   00,000      7           0            1             1            7           1           1           //kris
+//   12,015      1           1            0             0            0           0           0           //chaos
+//   14,013      1           1            0             0            0           0           0           //bless
+//   14,014      1           1            0             0            0           0           0           //soul
+//   14,022      1           1            0             0            0           0           0           //creation
+//   14,016      1           1            0             0            0           0           0           //life
+//   13,014      1           1            0             0            0           0           0           //Crest of mnonarch
+//   13,014      0           1            0             0            0           0           0           //loch feather
+//   00,000      7           0            1             1            7           1           1           //kris
 end

@@ -10,8 +10,12 @@ end
 //                [0~30]        [1~255]       [1~255]       [1~255]     [1~255]     [*/0~8]     [1~1000]
 // MonsterIndex   SpawnRadius   RangeStartX   RangeStartY   RangeEndX   RangeEndY   Direction   MaxSpawnCount
 // ----------------------------------------------------------------------------------------------------------
-   52             36            77            173           77          273         *           20
-   51             36            59            185           59          185         *           20
+   45             3             20            44            20          44          *           8  //  "Bahamut"
+   46             3             49            15            49          15          *           8  //  "Vepar"
+   52             3             229           64            229         64          *           8  //  "Silver Valkyrie"
+   52             3             77            173           77          273         *           8  //  "Silver Valkyrie"
+   51             3             214           64            214         64          *           8  //  "Great Bahamut"
+   51             3             59            185           59          185         *           8  //  "Great Bahamut"
 end
 
 2

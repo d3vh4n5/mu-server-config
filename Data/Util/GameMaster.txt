@@ -3,4 +3,6 @@
 // Account     Name        GMLevel
 // -------------------------------
    "admin"    "admin"      32
+   "admin"    "PRO_ADM"    8
+   "hans"     "Hanster"    32
 end
